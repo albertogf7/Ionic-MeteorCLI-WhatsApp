@@ -308,7 +308,7 @@ The `moment` package will be added to `package.json` by `npm`:
  ┊14┊14┊    "ionic-scripts": "^1.3.5",
 -┊15┊  ┊    "meteor-node-stubs": "~0.2.0"
 +┊  ┊15┊    "meteor-node-stubs": "~0.2.0",
-+┊  ┊16┊    "moment": "^2.12.0"
++┊  ┊16┊    "moment": "^2.17.0"
  ┊16┊17┊  }
  ┊17┊18┊}
 ```
